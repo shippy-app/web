@@ -1,0 +1,3 @@
+- [ ] Handle 404
+- [ ] favicon.ico
+- [ ] robots.txt
