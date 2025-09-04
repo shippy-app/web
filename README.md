@@ -1,3 +1,3 @@
-- [ ] Handle 404
-- [ ] favicon.ico
-- [ ] robots.txt
+# shippy.dev
+
+The `shippy.dev` website.
